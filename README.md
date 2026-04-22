@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  modev.404@gmail.com
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshaale&show_icons=true&locale=en&layout=compact" alt="marshaale" /></p>
