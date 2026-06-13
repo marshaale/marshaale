@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marshaale" alt="marshaale" /></a> </p>
 
-- 🔭 I’m currently working on [Python for every one bootcamp](https://github.com/marshaale/python-for-everyone-bootcamp)
+- 🔭 I’m currently working on [Python for every one bootcamp](https://github.com/marshaale/ds-ml-bootcamp)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **DS and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marshaale/](https://github.com/marshaale/)
 
-- 💬 Ask me about **laravel,php,js,ts,react**
+- 💬 Ask me about **laravel,php,js,ts,react,python,pandas,numpy**
 
 - 📫 How to reach me **modev.404@gmail.com**
 
